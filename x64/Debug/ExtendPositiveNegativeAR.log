@@ -1,0 +1,21 @@
+﻿  stdafx.cpp
+  DA2dims.cpp
+E:\C++_VS\ExtendPositiveNegativeAR\ExtendPositiveNegativeAR\DA2dims.cpp(172,29): warning C4018: '<': signed/unsigned mismatch
+E:\C++_VS\ExtendPositiveNegativeAR\ExtendPositiveNegativeAR\DA2dims.cpp(191,29): warning C4018: '<': signed/unsigned mismatch
+E:\C++_VS\ExtendPositiveNegativeAR\ExtendPositiveNegativeAR\DA2dims.cpp(219,29): warning C4018: '<': signed/unsigned mismatch
+E:\C++_VS\ExtendPositiveNegativeAR\ExtendPositiveNegativeAR\DA2dims.cpp(246,29): warning C4018: '<': signed/unsigned mismatch
+E:\C++_VS\ExtendPositiveNegativeAR\ExtendPositiveNegativeAR\DA2dims.cpp(280,29): warning C4018: '<': signed/unsigned mismatch
+  EPNAR_Process.cpp
+E:\C++_VS\ExtendPositiveNegativeAR\ExtendPositiveNegativeAR\EPNAR_Process.cpp(1080,3): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+E:\C++_VS\ExtendPositiveNegativeAR\ExtendPositiveNegativeAR\EPNAR_Process.cpp(1096,95): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+E:\C++_VS\ExtendPositiveNegativeAR\ExtendPositiveNegativeAR\EPNAR_Process.cpp(1282,26): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+E:\C++_VS\ExtendPositiveNegativeAR\ExtendPositiveNegativeAR\EPNAR_Process.cpp(1286,38): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  ExtendPositiveNegativeAR.cpp
+E:\C++_VS\ExtendPositiveNegativeAR\ExtendPositiveNegativeAR\ExtendPositiveNegativeAR.cpp(65,16): warning C4390: ';': empty controlled statement found; is this the intent?
+E:\C++_VS\ExtendPositiveNegativeAR\ExtendPositiveNegativeAR\ExtendPositiveNegativeAR.cpp(75,16): warning C4390: ';': empty controlled statement found; is this the intent?
+E:\C++_VS\ExtendPositiveNegativeAR\ExtendPositiveNegativeAR\ExtendPositiveNegativeAR.cpp(89,17): warning C4390: ';': empty controlled statement found; is this the intent?
+  time_counter.cpp
+E:\C++_VS\ExtendPositiveNegativeAR\ExtendPositiveNegativeAR\time_counter.cpp(18,15): warning C4244: 'return': conversion from 'time_t' to 'int', possible loss of data
+  Generating Code...
+DA2dims.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  ExtendPositiveNegativeAR.vcxproj -> E:\C++_VS\ExtendPositiveNegativeAR\x64\Debug\ExtendPositiveNegativeAR.exe
